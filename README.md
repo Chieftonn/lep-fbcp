@@ -4,7 +4,7 @@ This program used for copy primary framebuffer to secondary framebuffer (eg. FBT
 
 Tested on Le Potato s905x-cc
 ========================
-2017-11-29-raspbian-stretch
+2022-10-12-ubuntu-server-22.04.1
 
 
 Requirement
