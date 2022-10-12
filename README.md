@@ -1,8 +1,8 @@
-Raspberry Pi Framebuffer Copy
+Le Potato Framebuffer Copy
 =============================
 This program used for copy primary framebuffer to secondary framebuffer (eg. FBTFT). It require lastest raspberry pi firmware (> 2013-07-11) to working properly.
 
-Tested on Raspberry Pi 3
+Tested on Le Potato s905x-cc
 ========================
 2017-11-29-raspbian-stretch
 
